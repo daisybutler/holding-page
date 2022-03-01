@@ -207,9 +207,6 @@ footer {
         padding-top: 50px;
         padding-bottom: 50px;
     }
-    #section-1 {
-        border-radius: 0;
-    }
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -219,6 +216,9 @@ footer {
     }
     #header-text-content {
         margin-top: -80px;
+    }
+    #section-1 {
+        border-radius: 0;
     }
 }
 
